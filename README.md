@@ -64,4 +64,3 @@ Git
 JavaScript
 
 Javascript list and random topic selection via browser DevTool - ConsoleLog
-
